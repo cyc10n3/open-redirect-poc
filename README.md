@@ -48,7 +48,7 @@ open-redirect-poc/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/open-redirect-poc.git
+git clone https://github.com/cyc10n3/open-redirect-poc.git
 cd open-redirect-poc
 ```
 
