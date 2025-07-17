@@ -87,10 +87,3 @@ To avoid such issues:
 ## 📜 License
 
 This project is intended for educational and ethical research purposes only.
-
----
-
-## 🙋‍♂️ Author
-
-- Gaurav Mishra ([@g4ur4v_mishr4](https://twitter.com/g4ur4v_mishr4))  
-- [https://github.com/cyc10n3](https://github.com/cyc10n3)
