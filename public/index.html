@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Open Redirect PoC</title>
+</head>
+<body>
+  <h2>Open Redirect via Pathname</h2>
+  <p>This page will redirect if the URL path is crafted.</p>
+  <script>
+    console.log("Original pathname:", window.location.pathname);
+    window.location = window.location.pathname;
+  </script>
+</body>
+</html>
